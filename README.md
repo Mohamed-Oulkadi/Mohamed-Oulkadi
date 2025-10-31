@@ -11,9 +11,9 @@
 
 - 🎓 Master's student in **Software Engineering Excellence** at Ibn Zohr University, Agadir
 - 💼 Experienced in building scalable and high-performance solutions with **Spring Boot** and **Angular**
-- 🔭 Currently working on **E-Banking Platform** and **Mobile Appointment Applications**
+- 🔭 Currently working on **E-Banking Platform** and **Food Delevery App**
 - 🌱 Learning and exploring **DevOps**, **Microservices Architecture**, and **Cloud Technologies**
-- 💡 Passionate about clean code, problem-solving, and open-source contributions
+- 💡 Passionate about clean code and problem-solving
 - 🎯 Seeking an **end-of-studies internship (PFE 2026)** for Full-Stack or DevOps projects
 - 📍 Based in **Agadir, Morocco**
 
